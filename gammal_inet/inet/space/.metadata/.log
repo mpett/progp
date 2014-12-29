@@ -1,0 +1,45 @@
+!SESSION 2012-04-23 18:01:40.187 -----------------------------------------------
+eclipse.buildId=M20100211-1343
+java.version=1.6.0_20
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Command-line arguments:  -os linux -ws gtk -arch x86_64
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-04-23 18:01:41.648
+!MESSAGE The installable unit org.eclipse.core.resources.compatibility.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-04-23 18:01:41.649
+!MESSAGE The installable unit org.eclipse.jdt.compiler.tool.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-04-23 18:01:41.649
+!MESSAGE The installable unit org.eclipse.equinox.launcher.gtk.linux.x86_64.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-04-23 18:01:41.650
+!MESSAGE The installable unit org.eclipse.swt.gtk.linux.x86_64.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-04-23 18:01:41.651
+!MESSAGE The installable unit org.eclipse.jdt.compiler.apt.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-04-23 18:01:41.651
+!MESSAGE The installable unit org.eclipse.ui.workbench.compatibility.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-04-23 18:01:41.692
+!MESSAGE The installable unit org.eclipse.core.resources.compatibility.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-04-23 18:01:41.693
+!MESSAGE The installable unit org.eclipse.jdt.compiler.tool.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-04-23 18:01:41.694
+!MESSAGE The installable unit org.eclipse.equinox.launcher.gtk.linux.x86_64.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-04-23 18:01:41.695
+!MESSAGE The installable unit org.eclipse.swt.gtk.linux.x86_64.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-04-23 18:01:41.696
+!MESSAGE The installable unit org.eclipse.jdt.compiler.apt.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.equinox.p2.directorywatcher 4 0 2012-04-23 18:01:41.696
+!MESSAGE The installable unit org.eclipse.ui.workbench.compatibility.translated_host_properties is missing the filename property.
+
+!ENTRY org.eclipse.core.resources 2 10035 2012-04-23 18:01:45.315
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
