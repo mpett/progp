@@ -1,0 +1,27 @@
+
+public class User {
+	private int cardnr;
+	private int pin;
+	private int balance;
+	
+	public User(int cardnr, int pin, int balance) {
+		this.cardnr = cardnr;
+		this.pin = pin;
+		this.balance = balance;
+	}
+	
+	public int getCardnr() {
+		return cardnr;
+	}
+	
+	public int getBalance() {
+		return balance;
+	}
+	
+	public void setBalance(int balance) {
+		this.balance = balance;
+	}
+	
+	
+	
+}

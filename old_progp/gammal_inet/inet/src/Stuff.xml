@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+	<general>
+	<welcometext>Welcome! Vaelkommen! Welchome! Vaelkammen!</welcometext>
+	<cardnumberinputtext>Enter cardnumber: </cardnumberinputtext>
+		<numbercodeinputtext>Enter numbercode: </numbercodeinputtext>
+		<loginoktext>Your in!</loginoktext>
+		<loginnotoktext>Your out!</loginnotoktext>
+	</general>
+	<languages>
+		<english>
+			<menutext>(1)Balance, (2)Withdrawal, (3)Deposit, (4)Exit</menutext>
+			<balancetext>Current balance in dollars: </balancetext>
+			<inputtext>Enter amount in dollars: </inputtext>
+		</english>
+		<swedish>
+			<menutext>Vaelommen till Bank! (1)Saldo, (2)Uttag, (3)Insettning, (4)Avsluta</menutext>
+			<balancetext>Ditt saldo dollar aer: </balancetext>
+			<inputtext>Skriv maengd i dollar: </inputtext>
+		</swedish>
+	</languages>
+	<users>
+		<a666>
+			<numbercode>01</numbercode>
+			<language>english</language>
+			<balance>1260</balance>
+		</a666>
+
+		<a333>
+			<numbercode>02</numbercode>
+			<language>swedish</language>
+			<balance>1337</balance>
+		</a333>
+	</users>
+</root>
